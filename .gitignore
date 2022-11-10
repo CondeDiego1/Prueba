@@ -1,10 +1,10 @@
 node_modules
 vendor
 src
+models
 gulpfile.js
 package.json
 package-lock.json
 composer.lock
 app.css.map
 Usuario.php
-models
