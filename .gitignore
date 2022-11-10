@@ -4,5 +4,4 @@ src
 gulpfile.js
 package.json
 package-lock.json
-composer.lock
 app.css.map
