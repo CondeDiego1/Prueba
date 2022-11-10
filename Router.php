@@ -32,7 +32,8 @@ class Router
         }
 
         if ( $fn ) {
-            call_user_func($fn, $this);
+            //call_user_func va a llamar una función cuando no sabemos cual será
+            call_user_func($fn, $this); // This es para pasar argumentos
         }
     }
 
